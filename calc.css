@@ -1,0 +1,35 @@
+.calc {
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+}
+table {
+    align-items: center;
+    border-collapse: separate;
+    width: 500px;
+    background-color: #9c9c9c;
+    border: 7px solid rgb(106, 12, 194);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+}
+td {
+    
+    width: 200px;
+    padding: 20px;
+    border-spacing: 10px;
+    border: none;
+    background: #9c9c9c;
+    empty-cells: hide;
+
+}
+.btn40 ,.btn41 ,.btnCent ,.btnAC ,.btn7 ,.btn8 ,.btn9 ,.btnDivis ,.btn4 ,.btn5 ,.btn6 ,.btnMult ,.btn1 ,.btn2 ,.btn3  
+,.btnMinus ,.btn0 ,.btnDot ,.btnEqu ,.btnPlus {
+    background: linear-gradient(45deg, #c98456, #f378ca);
+    color: rgb(255, 255, 0);
+    padding: 45px 45px;
+    border: none;
+    cursor: pointer;
+    font-size: large;
+    border: 5px solid  rgb(255, 255, 0);
+}  
