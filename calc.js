@@ -154,3 +154,4 @@ btnEqu.addEventListener('click', () => {
 })
 
 
+const Commit = 'Commit test';
